@@ -1,0 +1,5 @@
+wwwroot\css\app.css
+wwwroot\images\sabes_logo.png
+wwwroot\index.html
+D:\Projects\SABES\SABES\wwwroot\css\app.css
+D:\Projects\SABES\SABES\wwwroot\index.html

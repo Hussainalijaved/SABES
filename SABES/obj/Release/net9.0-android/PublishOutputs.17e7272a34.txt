@@ -1,0 +1,3 @@
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-android\publish\com.arslandevs.sabes-Signed.apk
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-android\publish\com.arslandevs.sabes.apk
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-android\publish\_Microsoft.Android.Resource.Designer.dll

@@ -1,0 +1,289 @@
+@page "/categories"
+@inject ICategoryService CategoryService
+@inject IJSRuntime JSRuntime
+
+<div class="container-fluid p-3">
+    <!-- Header -->
+    <div class="row mb-3">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h4><i class="fas fa-tags"></i> Categories</h4>
+                    <small class="text-muted">SABES - Manage your product categories</small>
+                </div>
+                <button class="btn btn-primary" @onclick="ShowAddModal">
+                    <i class="fas fa-plus"></i> Add Category
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Categories List -->
+    @if (isLoading)
+    {
+        <div class="text-center p-4">
+            <div class="spinner"></div>
+            <p class="mt-2">Loading categories...</p>
+        </div>
+    }
+    else if (!categories.Any())
+    {
+        <div class="card">
+            <div class="card-body text-center p-5">
+                <i class="fas fa-tags fa-3x text-muted mb-3"></i>
+                <h5>No Categories Found</h5>
+                <p class="text-muted">Start by adding your first category</p>
+                <button class="btn btn-primary" @onclick="ShowAddModal">
+                    <i class="fas fa-plus"></i> Add First Category
+                </button>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var category in categories)
+            {
+                <div class="col-12 col-md-6 col-lg-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-start">
+                                <div>
+                                    <h6 class="card-title mb-1">@category.Name</h6>
+                                    @if (!string.IsNullOrEmpty(category.Description))
+                                    {
+                                        <p class="card-text text-muted small">@category.Description</p>
+                                    }
+                                    <small class="text-muted">
+                                        <i class="fas fa-box"></i> @category.Items.Count items
+                                    </small>
+                                </div>
+                                <div class="dropdown">
+                                    <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown">
+                                        <i class="fas fa-ellipsis-v"></i>
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li><button class="dropdown-item" type="button" @onclick="() => ShowEditModal(category)">
+                                            <i class="fas fa-edit"></i> Edit
+                                        </button></li>
+                                        <li><button class="dropdown-item text-danger" type="button" @onclick="() => DeleteCategory(category)">
+                                            <i class="fas fa-trash"></i> Delete
+                                        </button></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+<!-- Add/Edit Modal -->
+@if (showModal)
+{
+    <div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,0.5);">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        @if (editingCategory == null)
+                        {
+                            <i class="fas fa-plus"></i> <text>Add Category</text>
+                        }
+                        else
+                        {
+                            <i class="fas fa-edit"></i> <text>Edit Category</text>
+                        }
+                    </h5>
+                    <button type="button" class="btn-close" @onclick="HideModal"></button>
+                </div>
+                <EditForm Model="categoryForm" OnValidSubmit="SaveCategory">
+                    <DataAnnotationsValidator />
+                    <div class="modal-body">
+                        <div class="mb-3">
+                            <label class="form-label">Name *</label>
+                            <InputText class="form-control" @bind-Value="categoryForm.Name" placeholder="Enter category name" />
+                            <ValidationMessage For="@(() => categoryForm.Name)" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Description</label>
+                            <InputTextArea class="form-control" @bind-Value="categoryForm.Description" rows="3" placeholder="Enter category description (optional)" />
+                            <ValidationMessage For="@(() => categoryForm.Description)" />
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" @onclick="HideModal">Cancel</button>
+                        <button type="submit" class="btn btn-primary" disabled="@isSaving">
+                            @if (isSaving)
+                            {
+                                <span class="spinner-border spinner-border-sm me-2"></span>
+                            }
+                            @if (editingCategory == null)
+                            {
+                                <text>Add Category</text>
+                            }
+                            else
+                            {
+                                <text>Update Category</text>
+                            }
+                        </button>
+                    </div>
+                </EditForm>
+            </div>
+        </div>
+    </div>
+}
+
+    <!-- Footer -->
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="text-center">
+                <small class="text-muted">
+                    <i class="fas fa-code"></i> Powered by <strong class="text-primary">Arslandevs</strong>
+                </small>
+            </div>
+        </div>
+    </div>
+
+@code {
+    private List<Category> categories = new();
+    private bool isLoading = true;
+    private bool showModal = false;
+    private bool isSaving = false;
+    private Category? editingCategory = null;
+    private CategoryForm categoryForm = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCategories();
+    }
+
+    private async Task LoadCategories()
+    {
+        isLoading = true;
+        try
+        {
+            categories = await CategoryService.GetAllCategoriesAsync();
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error loading categories: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+            StateHasChanged();
+            await Task.Delay(100);
+            await JSRuntime.InvokeVoidAsync("initializeDropdowns");
+        }
+    }
+
+    private void ShowAddModal()
+    {
+        editingCategory = null;
+        categoryForm = new CategoryForm();
+        showModal = true;
+    }
+
+    private void ShowEditModal(Category category)
+    {
+        editingCategory = category;
+        categoryForm = new CategoryForm
+        {
+            Name = category.Name,
+            Description = category.Description
+        };
+        showModal = true;
+    }
+
+    private void HideModal()
+    {
+        showModal = false;
+        editingCategory = null;
+        categoryForm = new CategoryForm();
+    }
+
+    private async Task SaveCategory()
+    {
+        isSaving = true;
+        try
+        {
+            // Check if category name already exists
+            var exists = await CategoryService.CategoryExistsAsync(categoryForm.Name, editingCategory?.Id);
+            if (exists)
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "A category with this name already exists.");
+                return;
+            }
+
+            if (editingCategory == null)
+            {
+                // Add new category
+                var newCategory = new Category
+                {
+                    Name = categoryForm.Name,
+                    Description = categoryForm.Description
+                };
+                await CategoryService.CreateCategoryAsync(newCategory);
+            }
+            else
+            {
+                // Update existing category
+                editingCategory.Name = categoryForm.Name;
+                editingCategory.Description = categoryForm.Description;
+                await CategoryService.UpdateCategoryAsync(editingCategory);
+            }
+
+            await LoadCategories();
+            HideModal();
+            await Task.Delay(100);
+            await JSRuntime.InvokeVoidAsync("initializeDropdowns");
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error saving category: {ex.Message}");
+        }
+        finally
+        {
+            isSaving = false;
+        }
+    }
+
+    private async Task DeleteCategory(Category category)
+    {
+        var confirmed = await JSRuntime.InvokeAsync<bool>("confirm", 
+            $"Are you sure you want to delete '{category.Name}'? This action cannot be undone.");
+        
+        if (!confirmed) return;
+
+        try
+        {
+            var deleted = await CategoryService.DeleteCategoryAsync(category.Id);
+            if (deleted)
+            {
+                await LoadCategories();
+            }
+            else
+            {
+                await JSRuntime.InvokeVoidAsync("alert", 
+                    "Cannot delete this category because it contains items. Please remove all items first.");
+            }
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error deleting category: {ex.Message}");
+        }
+    }
+
+    public class CategoryForm
+    {
+        [Required(ErrorMessage = "Category name is required")]
+        [StringLength(100, ErrorMessage = "Category name cannot exceed 100 characters")]
+        public string Name { get; set; } = string.Empty;
+
+        [StringLength(500, ErrorMessage = "Description cannot exceed 500 characters")]
+        public string? Description { get; set; }
+    }
+}

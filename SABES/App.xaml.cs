@@ -1,0 +1,27 @@
+namespace SABES
+{
+    public partial class App : Application
+    {
+        public App()
+        {
+            InitializeComponent();
+
+            // Global exception handling for Android emulator
+            AppDomain.CurrentDomain.UnhandledException += (sender, e) =>
+            {
+                System.Diagnostics.Debug.WriteLine($"Unhandled exception: {e.ExceptionObject}");
+            };
+
+            TaskScheduler.UnobservedTaskException += (sender, e) =>
+            {
+                System.Diagnostics.Debug.WriteLine($"Unobserved task exception: {e.Exception}");
+                e.SetObserved();
+            };
+        }
+
+        protected override Window CreateWindow(IActivationState? activationState)
+        {
+            return new Window(new MainPage()) { Title = "SABES" };
+        }
+    }
+}

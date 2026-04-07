@@ -1,0 +1,1361 @@
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.staticwebassets.endpoints.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.runtimeconfig.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.pdb
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Humanizer.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Authorization.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Metadata.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Build.Locator.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Data.Sqlite.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyModel.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.JSInterop.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Mono.TextTemplating.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.iOS.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Controls.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Core.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.lib.e_sqlite3.ios.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.provider.internal.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.CodeDom.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.AttributedModel.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Convention.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Hosting.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Runtime.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.TypedParts.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Info.plist
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\CodeResources
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSkiaSharp
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.AppContext.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Buffers.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Configuration.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Console.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Core.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Drawing.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipelines.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Memory.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Numerics.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Transactions.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Web.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Windows.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\WindowsBase.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\mscorlib.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\netstandard.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Native.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-stub-static.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot-debug.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.AssemblyReference.cache
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\bundle\SABES.styles.css
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\projectbundle\SABES.bundle.scp.css
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\ninj7aqpbe-rayvpr5cm1.gz
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\185rzhb6la-51bp3kobio.gz
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\sjeto45nrb-qlthuwo0im.gz
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\f8mughtq8q-qlthuwo0im.gz
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.json.cache
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.development.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.endpoints.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.build.SABES.props
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.buildMultiTargeting.SABES.props
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.buildTransitive.SABES.props
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.pack.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.upToDateCheck.txt
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\ninj7aqpbe-rayvpr5cm1.br
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\185rzhb6la-51bp3kobio.br
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\sjeto45nrb-qlthuwo0im.br
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\f8mughtq8q-qlthuwo0im.br
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.publish.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.publish.endpoints.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.inputs
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauifont.inputs
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauisplash.inputs
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE@3x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauisplash.stamp
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.stamp
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.outputs
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauifont.stamp
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\collada\_ProcessedColladaAssetsPath.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\atlas\_ProcessedTextureAtlasesPath.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.AssemblyInfoInputs.cache
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.AssemblyInfo.cs
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.CoreCompileInputs.cache
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\XamlC.stamp
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.Up2Date
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\refint\SABES.dll
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.pdb
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.genruntimeconfig.cache
+D:\DotNet\Maui Blazor Hybrid\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ref\SABES.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.staticwebassets.endpoints.json
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.runtimeconfig.json
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.pdb
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Humanizer.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Build.Locator.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Data.Sqlite.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.JSInterop.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Mono.TextTemplating.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.iOS.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Controls.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Core.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.lib.e_sqlite3.ios.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.provider.internal.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.CodeDom.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.AttributedModel.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Convention.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Hosting.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Runtime.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.TypedParts.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Info.plist
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\CodeResources
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSkiaSharp
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.AppContext.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Buffers.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Configuration.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Console.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Core.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Drawing.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipelines.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Memory.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Numerics.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Transactions.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Web.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Windows.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\WindowsBase.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\mscorlib.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\netstandard.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Native.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-stub-static.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot-debug.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\Projects\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.AssemblyReference.cache
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\bundle\SABES.styles.css
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\projectbundle\SABES.bundle.scp.css
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\ninj7aqpbe-rayvpr5cm1.gz
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\185rzhb6la-51bp3kobio.gz
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\sjeto45nrb-qlthuwo0im.gz
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\f8mughtq8q-qlthuwo0im.gz
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.development.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.endpoints.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.build.SABES.props
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.buildMultiTargeting.SABES.props
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.buildTransitive.SABES.props
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.pack.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.upToDateCheck.txt
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\sjeto45nrb-qlthuwo0im.br
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\f8mughtq8q-qlthuwo0im.br
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\ninj7aqpbe-rayvpr5cm1.br
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\185rzhb6la-51bp3kobio.br
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.publish.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.publish.endpoints.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.inputs
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauifont.inputs
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauisplash.inputs
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauisplash.stamp
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.stamp
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.outputs
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauifont.stamp
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\collada\_ProcessedColladaAssetsPath.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\atlas\_ProcessedTextureAtlasesPath.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.AssemblyInfoInputs.cache
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.AssemblyInfo.cs
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.CoreCompileInputs.cache
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\XamlC.stamp
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.Up2Date
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.dll
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\refint\SABES.dll
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.pdb
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.genruntimeconfig.cache
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ref\SABES.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.staticwebassets.endpoints.json
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.runtimeconfig.json
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SABES.pdb
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Humanizer.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Build.Locator.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Data.Sqlite.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.JSInterop.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Mono.TextTemplating.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.iOS.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Controls.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Core.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.lib.e_sqlite3.ios.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\SQLitePCLRaw.provider.internal.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.CodeDom.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.AttributedModel.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Convention.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Hosting.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.Runtime.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Composition.TypedParts.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Info.plist
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\CodeResources
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSkiaSharp
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.AppContext.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Buffers.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Collections.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Configuration.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Console.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Core.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Data.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Drawing.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Globalization.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipelines.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.IO.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Linq.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Memory.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Net.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Numerics.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Reflection.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Runtime.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Security.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Threading.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Transactions.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Web.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Windows.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Xml.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\WindowsBase.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\mscorlib.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\netstandard.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Native.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-stub-static.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot-debug.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\Projects\backups\SABES\SABES\bin\Release\net9.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.AssemblyReference.cache
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rpswa.dswa.cache.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rjimswa.dswa.cache.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rjsmrazor.dswa.cache.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rjsmcshtml.dswa.cache.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\bundle\SABES.styles.css
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\scopedcss\projectbundle\SABES.bundle.scp.css
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\ninj7aqpbe-rayvpr5cm1.gz
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\185rzhb6la-51bp3kobio.gz
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\sjeto45nrb-qlthuwo0im.gz
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\f8mughtq8q-qlthuwo0im.gz
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.json.cache
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.development.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.endpoints.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.build.SABES.props
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.buildMultiTargeting.SABES.props
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.buildTransitive.SABES.props
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.pack.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\ninj7aqpbe-rayvpr5cm1.br
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\185rzhb6la-51bp3kobio.br
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\sjeto45nrb-qlthuwo0im.br
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\compressed\publish\f8mughtq8q-qlthuwo0im.br
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.publish.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.publish.endpoints.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.inputs
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauifont.inputs
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauisplash.inputs
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauisplash.stamp
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\sabes_logo@3x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\sabes_logo@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\sabes_logo.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.stamp
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauiimage.outputs
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\mauifont.stamp
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\collada\_ProcessedColladaAssetsPath.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\atlas\_ProcessedTextureAtlasesPath.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.AssemblyInfoInputs.cache
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.AssemblyInfo.cs
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.CoreCompileInputs.cache
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\XamlC.stamp
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.csproj.Up2Date
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.dll
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\refint\SABES.dll
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.pdb
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\SABES.genruntimeconfig.cache
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\ref\SABES.dll
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE@2x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE@3x.png
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Projects\backups\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.upToDateCheck.txt
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rpswa.dswa.cache.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rjimswa.dswa.cache.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rjsmrazor.dswa.cache.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\rjsmcshtml.dswa.cache.json
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\staticwebassets.build.json.cache
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_9DD6978B59F17362455E6B91F938E2831B9A532D72F849A6381FB528EF097EEE@3x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\sabes_logo@3x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\sabes_logo@2x.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\sabes_logo.png
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\Projects\SABES\SABES\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf

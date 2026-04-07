@@ -1,0 +1,353 @@
+@page "/lowstock"
+@using SABES.Models
+@using SABES.Services
+@inject IItemService ItemService
+@inject IJSRuntime JSRuntime
+
+<PageTitle>Low Stock Items - SABES</PageTitle>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h2><i class="fas fa-exclamation-triangle text-warning"></i> Low Stock Items</h2>
+                <div>
+                    <button class="btn btn-primary" @onclick="RefreshData">
+                        <i class="fas fa-sync-alt"></i> Refresh
+                    </button>
+                </div>
+            </div>
+
+            @if (isLoading)
+            {
+                <div class="text-center py-5">
+                    <div class="spinner-border" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <p class="mt-2">Loading low stock items...</p>
+                </div>
+            }
+            else if (!lowStockItems.Any())
+            {
+                <div class="alert alert-success text-center">
+                    <i class="fas fa-check-circle fa-2x mb-3"></i>
+                    <h4>Great! No Low Stock Items</h4>
+                    <p>All items are above their minimum stock levels.</p>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-warning">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    <strong>@lowStockItems.Count</strong> items are running low on stock.
+                </div>
+
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="table-dark">
+                                    <tr>
+                                        <th>Item</th>
+                                        <th>Category</th>
+                                        <th>Company</th>
+                                        <th>Current Stock</th>
+                                        <th>Min Level</th>
+                                        <th>Max Level</th>
+                                        <th>Status</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in lowStockItems)
+                                    {
+                                        <tr class="@GetRowClass(item)">
+                                            <td>
+                                                <div>
+                                                    <strong>@item.Name</strong>
+                                                    @if (!string.IsNullOrEmpty(item.ElectricalDetails))
+                                                    {
+                                                        <br><small class="text-muted">@item.ElectricalDetails</small>
+                                                    }
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <span class="badge bg-info">@item.Category?.Name</span>
+                                            </td>
+                                            <td>@item.Company</td>
+                                            <td>
+                                                <span class="badge @GetStockBadgeClass(item) fs-6">
+                                                    @item.StockQuantity
+                                                </span>
+                                            </td>
+                                            <td>@item.MinimumStockLevel</td>
+                                            <td>@item.MaximumStockLevel</td>
+                                            <td>
+                                                @if (item.StockQuantity == 0)
+                                                {
+                                                    <span class="badge bg-danger">Out of Stock</span>
+                                                }
+                                                else if (item.StockQuantity <= item.MinimumStockLevel)
+                                                {
+                                                    <span class="badge bg-warning">Low Stock</span>
+                                                }
+                                            </td>
+                                            <td>
+                                                <div class="btn-group" role="group">
+                                                    <button class="btn btn-sm btn-success" @onclick="() => ShowAddStockModal(item)">
+                                                        <i class="fas fa-plus"></i> Add Stock
+                                                    </button>
+                                                    <button class="btn btn-sm btn-primary" @onclick="() => ShowUpdateStockModal(item)">
+                                                        <i class="fas fa-edit"></i> Update
+                                                    </button>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<!-- Add Stock Modal -->
+@if (showAddStockModal && selectedItem != null)
+{
+    <div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,0.5);">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Add Stock - @selectedItem.Name</h5>
+                    <button type="button" class="btn-close" @onclick="HideAddStockModal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label class="form-label">Current Stock: <strong>@selectedItem.StockQuantity</strong></label>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Quantity to Add</label>
+                        <input type="number" class="form-control" @bind="addStockQuantity" min="1" placeholder="Enter quantity to add" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">New Total: <strong>@(selectedItem.StockQuantity + addStockQuantity)</strong></label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" @onclick="HideAddStockModal">Cancel</button>
+                    <button type="button" class="btn btn-success" @onclick="AddStock" disabled="@(addStockQuantity <= 0 || isUpdating)">
+                        @if (isUpdating)
+                        {
+                            <span class="spinner-border spinner-border-sm me-2"></span>
+                        }
+                        Add Stock
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<!-- Update Stock Modal -->
+@if (showUpdateStockModal && selectedItem != null)
+{
+    <div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,0.5);">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Update Stock - @selectedItem.Name</h5>
+                    <button type="button" class="btn-close" @onclick="HideUpdateStockModal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label class="form-label">Current Stock: <strong>@selectedItem.StockQuantity</strong></label>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">New Stock Quantity</label>
+                        <input type="number" class="form-control" @bind="newStockQuantity" min="0" placeholder="Enter new stock quantity" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Minimum Stock Level</label>
+                        <input type="number" class="form-control" @bind="newMinLevel" min="0" placeholder="Enter minimum stock level" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Maximum Stock Level</label>
+                        <input type="number" class="form-control" @bind="newMaxLevel" min="1" placeholder="Enter maximum stock level" />
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" @onclick="HideUpdateStockModal">Cancel</button>
+                    <button type="button" class="btn btn-primary" @onclick="UpdateStock" disabled="@(newStockQuantity < 0 || newMaxLevel <= 0 || isUpdating)">
+                        @if (isUpdating)
+                        {
+                            <span class="spinner-border spinner-border-sm me-2"></span>
+                        }
+                        Update Stock
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private List<Item> lowStockItems = new();
+    private bool isLoading = true;
+    private bool isUpdating = false;
+    
+    // Add Stock Modal
+    private bool showAddStockModal = false;
+    private Item? selectedItem = null;
+    private int addStockQuantity = 0;
+    
+    // Update Stock Modal
+    private bool showUpdateStockModal = false;
+    private int newStockQuantity = 0;
+    private int newMinLevel = 0;
+    private int newMaxLevel = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadLowStockItems();
+    }
+
+    private async Task LoadLowStockItems()
+    {
+        isLoading = true;
+        try
+        {
+            lowStockItems = await ItemService.GetLowStockItemsAsync();
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error loading low stock items: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+
+    private async Task RefreshData()
+    {
+        await LoadLowStockItems();
+    }
+
+    private void ShowAddStockModal(Item item)
+    {
+        selectedItem = item;
+        addStockQuantity = 0;
+        showAddStockModal = true;
+    }
+
+    private void HideAddStockModal()
+    {
+        showAddStockModal = false;
+        selectedItem = null;
+        addStockQuantity = 0;
+    }
+
+    private void ShowUpdateStockModal(Item item)
+    {
+        selectedItem = item;
+        newStockQuantity = item.StockQuantity;
+        newMinLevel = item.MinimumStockLevel;
+        newMaxLevel = item.MaximumStockLevel ?? 0;
+        showUpdateStockModal = true;
+    }
+
+    private void HideUpdateStockModal()
+    {
+        showUpdateStockModal = false;
+        selectedItem = null;
+        newStockQuantity = 0;
+        newMinLevel = 0;
+        newMaxLevel = 0;
+    }
+
+    private async Task AddStock()
+    {
+        if (selectedItem == null || addStockQuantity <= 0) return;
+
+        isUpdating = true;
+        try
+        {
+            var success = await ItemService.AddStockAsync(selectedItem.Id, addStockQuantity);
+            if (success)
+            {
+                await JSRuntime.InvokeVoidAsync("alert", $"Successfully added {addStockQuantity} units to {selectedItem.Name}");
+                HideAddStockModal();
+                await LoadLowStockItems();
+            }
+            else
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "Failed to add stock. Please try again.");
+            }
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error adding stock: {ex.Message}");
+        }
+        finally
+        {
+            isUpdating = false;
+        }
+    }
+
+    private async Task UpdateStock()
+    {
+        if (selectedItem == null) return;
+
+        isUpdating = true;
+        try
+        {
+            // Update stock quantity
+            var stockSuccess = await ItemService.UpdateStockQuantityAsync(selectedItem.Id, newStockQuantity);
+            
+            // Update item with new min/max levels
+            selectedItem.MinimumStockLevel = newMinLevel;
+            selectedItem.MaximumStockLevel = newMaxLevel;
+            var itemSuccess = await ItemService.UpdateItemAsync(selectedItem);
+
+            if (stockSuccess && itemSuccess != null)
+            {
+                await JSRuntime.InvokeVoidAsync("alert", $"Successfully updated stock for {selectedItem.Name}");
+                HideUpdateStockModal();
+                await LoadLowStockItems();
+            }
+            else
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "Failed to update stock. Please try again.");
+            }
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error updating stock: {ex.Message}");
+        }
+        finally
+        {
+            isUpdating = false;
+        }
+    }
+
+    private string GetRowClass(Item item)
+    {
+        if (item.StockQuantity == 0)
+            return "table-danger";
+        if (item.StockQuantity <= item.MinimumStockLevel)
+            return "table-warning";
+        return "";
+    }
+
+    private string GetStockBadgeClass(Item item)
+    {
+        if (item.StockQuantity == 0)
+            return "bg-danger";
+        if (item.StockQuantity <= item.MinimumStockLevel)
+            return "bg-warning";
+        return "bg-success";
+    }
+}

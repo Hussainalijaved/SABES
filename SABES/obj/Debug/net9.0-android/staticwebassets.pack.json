@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "d:\\Projects\\SABES\\SABES\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\SABES.styles.css",
+      "PackagePath": "staticwebassets\\SABES.styles.css"
+    },
+    {
+      "Id": "d:\\Projects\\SABES\\SABES\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "d:\\Projects\\SABES\\SABES\\wwwroot\\images\\sabes_logo.png",
+      "PackagePath": "staticwebassets\\images\\sabes_logo.png"
+    },
+    {
+      "Id": "d:\\Projects\\SABES\\SABES\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.SABES.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.SABES.props",
+      "PackagePath": "build\\SABES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.SABES.props",
+      "PackagePath": "buildMultiTargeting\\SABES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.SABES.props",
+      "PackagePath": "buildTransitive\\SABES.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

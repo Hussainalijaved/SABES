@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<linker>
+  <!-- Preserve all types in the main assembly -->
+  <assembly fullname="SABES">
+    <type fullname="*" />
+  </assembly>
+
+  <!-- Preserve Entity Framework Core -->
+  <assembly fullname="Microsoft.EntityFrameworkCore">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="Microsoft.EntityFrameworkCore.Sqlite">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="Microsoft.EntityFrameworkCore.Relational">
+    <type fullname="*" />
+  </assembly>
+
+  <!-- Preserve Blazor components -->
+  <assembly fullname="Microsoft.AspNetCore.Components">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="Microsoft.AspNetCore.Components.Web">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="Microsoft.AspNetCore.Components.WebView.Maui">
+    <type fullname="*" />
+  </assembly>
+
+  <!-- Preserve SkiaSharp -->
+  <assembly fullname="SkiaSharp">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="SkiaSharp.Views.Maui.Controls">
+    <type fullname="*" />
+  </assembly>
+
+  <!-- Preserve System assemblies that might be trimmed -->
+  <assembly fullname="System.Text.Json">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="System.ComponentModel.Annotations">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="System.Linq.Expressions">
+    <type fullname="*" />
+  </assembly>
+
+  <!-- Preserve MAUI essentials -->
+  <assembly fullname="Microsoft.Maui">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="Microsoft.Maui.Controls">
+    <type fullname="*" />
+  </assembly>
+  <assembly fullname="Microsoft.Maui.Essentials">
+    <type fullname="*" />
+  </assembly>
+</linker>

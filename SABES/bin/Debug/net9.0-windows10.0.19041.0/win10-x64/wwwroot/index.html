@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content" />
+    <title>SABES - Sami and Brothers Electric Store | Powered by Arslandevs</title>
+    <base href="/" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="SABES.styles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+    <link rel="icon" href="data:,">
+</head>
+
+<body>
+
+    <div class="status-bar-safe-area"></div>
+
+    <div id="app">
+        <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; background: linear-gradient(135deg, #16a085, #f39c12); color: white; font-family: Arial, sans-serif;">
+            <div style="text-align: center;">
+                <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">⚡ SABES</h1>
+                <h3 style="margin-bottom: 1rem; opacity: 0.9;">Sami and Brothers Electric Store</h3>
+                <p style="margin-bottom: 2rem; opacity: 0.8;">Professional Electric Solutions</p>
+                <div style="margin-bottom: 2rem;">
+                    <div style="width: 50px; height: 50px; border: 3px solid rgba(255,255,255,0.3); border-top: 3px solid white; border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto;"></div>
+                </div>
+                <p style="opacity: 0.7;">Powered by <strong>Arslandevs</strong></p>
+            </div>
+        </div>
+        <style>
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+        </style>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <script src="_framework/blazor.webview.js" autostart="false"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        window.downloadFile = (dataUrl, filename) => {
+            try {
+                // Check if we're in a mobile environment
+                const isMobile = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+                if (isMobile) {
+                    // For mobile devices, try multiple approaches
+
+                    // Method 1: Try direct download
+                    const link = document.createElement('a');
+                    link.href = dataUrl;
+                    link.download = filename;
+                    link.style.display = 'none';
+                    document.body.appendChild(link);
+
+                    // Add event listeners to handle success/failure
+                    link.addEventListener('click', function(e) {
+                        console.log('Download link clicked');
+                    });
+
+                    link.click();
+
+                    // Clean up after a delay
+                    setTimeout(() => {
+                        if (document.body.contains(link)) {
+                            document.body.removeChild(link);
+                        }
+                    }, 1000);
+
+                    // Method 2: Fallback - Open in new window for manual save
+                    setTimeout(() => {
+                        try {
+                            const newWindow = window.open();
+                            if (newWindow) {
+                                newWindow.document.write(`
+                                    <html>
+                                        <head><title>Download ${filename}</title></head>
+                                        <body style="margin:0;padding:20px;font-family:Arial,sans-serif;">
+                                            <h3>Download ${filename}</h3>
+                                            <p>If download didn't start automatically, right-click the image below and select "Save image as..."</p>
+                                            <img src="${dataUrl}" style="max-width:100%;height:auto;border:1px solid #ccc;" alt="${filename}"/>
+                                            <br><br>
+                                            <a href="${dataUrl}" download="${filename}" style="background:#16a085;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">Download Image</a>
+                                        </body>
+                                    </html>
+                                `);
+                                newWindow.document.close();
+                            }
+                        } catch (popupError) {
+                            console.log('Popup blocked or failed:', popupError);
+                            // Method 3: Show alert with instructions
+                            alert('Download may have failed. Please check your Downloads folder or try again.');
+                        }
+                    }, 2000);
+
+                } else {
+                    // Desktop approach
+                    const link = document.createElement('a');
+                    link.href = dataUrl;
+                    link.download = filename;
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                }
+
+                console.log('Download initiated for:', filename);
+
+            } catch (error) {
+                console.error('Download failed:', error);
+                alert('Download failed. Please try again or check your device permissions.');
+            }
+        };
+
+        // Simple force download function
+        window.forceDownload = (dataUrl, filename) => {
+            try {
+                console.log('Force download started for:', filename);
+
+                // Create a temporary link and force click
+                const link = document.createElement('a');
+                link.href = dataUrl;
+                link.download = filename;
+                link.style.display = 'none';
+
+                // Add to DOM, click, and remove
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+
+                console.log('Force download completed');
+
+                // Also try to save to local storage as backup
+                try {
+                    localStorage.setItem('lastDownload_' + filename, dataUrl);
+                    console.log('Backup saved to localStorage');
+                } catch (storageError) {
+                    console.log('localStorage backup failed:', storageError);
+                }
+
+            } catch (error) {
+                console.error('Force download failed:', error);
+                alert('Force download failed: ' + error.message);
+            }
+        };
+
+        // Professional toast notification system
+        window.showToast = (message, type = 'info') => {
+            // Remove any existing toast
+            const existingToast = document.getElementById('sabes-toast');
+            if (existingToast) {
+                existingToast.remove();
+            }
+
+            // Create toast element
+            const toast = document.createElement('div');
+            toast.id = 'sabes-toast';
+            toast.style.cssText = `
+                position: fixed;
+                top: 20px;
+                right: 20px;
+                z-index: 10000;
+                padding: 16px 24px;
+                border-radius: 8px;
+                color: white;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                font-size: 14px;
+                font-weight: 500;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+                transform: translateX(100%);
+                transition: transform 0.3s ease-in-out;
+                max-width: 300px;
+                word-wrap: break-word;
+            `;
+
+            // Set color based on type
+            switch (type) {
+                case 'success':
+                    toast.style.backgroundColor = '#16a085';
+                    break;
+                case 'error':
+                    toast.style.backgroundColor = '#e74c3c';
+                    break;
+                case 'warning':
+                    toast.style.backgroundColor = '#f39c12';
+                    break;
+                default:
+                    toast.style.backgroundColor = '#3498db';
+            }
+
+            toast.textContent = message;
+
+            // Add to document
+            document.body.appendChild(toast);
+
+            // Animate in
+            setTimeout(() => {
+                toast.style.transform = 'translateX(0)';
+            }, 100);
+
+            // Auto remove after 3 seconds
+            setTimeout(() => {
+                toast.style.transform = 'translateX(100%)';
+                setTimeout(() => {
+                    if (toast.parentNode) {
+                        toast.parentNode.removeChild(toast);
+                    }
+                }, 300);
+            }, 3000);
+        };
+
+        // Initialize Bootstrap dropdowns after Blazor renders
+        window.initializeDropdowns = () => {
+            setTimeout(() => {
+                const dropdownElementList = [].slice.call(document.querySelectorAll('[data-bs-toggle="dropdown"]'));
+                dropdownElementList.map(function (dropdownToggleEl) {
+                    return new bootstrap.Dropdown(dropdownToggleEl);
+                });
+            }, 100);
+        };
+
+        // Auto-initialize dropdowns when DOM changes
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.addedNodes.length > 0) {
+                    window.initializeDropdowns();
+                }
+            });
+        });
+
+        // Mobile keyboard handling
+        window.handleKeyboardResize = () => {
+            const viewport = window.visualViewport;
+            if (viewport) {
+                const viewportHeight = viewport.height;
+                const windowHeight = window.innerHeight;
+                const keyboardHeight = windowHeight - viewportHeight;
+
+                if (keyboardHeight > 150) { // Keyboard is open
+                    document.body.style.paddingBottom = keyboardHeight + 'px';
+                    document.body.style.transform = 'translateY(-' + (keyboardHeight * 0.3) + 'px)';
+                    document.body.style.transition = 'transform 0.3s ease, padding-bottom 0.3s ease';
+
+                    // Scroll focused input into view
+                    setTimeout(() => {
+                        const activeElement = document.activeElement;
+                        if (activeElement && (activeElement.tagName === 'INPUT' || activeElement.tagName === 'TEXTAREA' || activeElement.tagName === 'SELECT')) {
+                            activeElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        }
+                    }, 100);
+                } else { // Keyboard is closed
+                    document.body.style.paddingBottom = '';
+                    document.body.style.transform = '';
+                    document.body.style.transition = 'transform 0.3s ease, padding-bottom 0.3s ease';
+                }
+            }
+        };
+
+        // Listen for viewport changes (keyboard open/close)
+        if (window.visualViewport) {
+            window.visualViewport.addEventListener('resize', window.handleKeyboardResize);
+        }
+
+        // Fallback for older browsers
+        window.addEventListener('resize', () => {
+            setTimeout(window.handleKeyboardResize, 100);
+        });
+
+        // Focus handling for inputs
+        document.addEventListener('focusin', (e) => {
+            if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') {
+                setTimeout(() => {
+                    e.target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }, 300);
+            }
+        });
+
+        document.addEventListener('DOMContentLoaded', function() {
+            observer.observe(document.body, { childList: true, subtree: true });
+            window.initializeDropdowns();
+
+            // Initialize keyboard handling
+            window.handleKeyboardResize();
+        });
+    </script>
+
+</body>
+
+</html>

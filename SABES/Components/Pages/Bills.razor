@@ -1,0 +1,741 @@
+@page "/bills"
+@inject IBillService BillService
+@inject IItemService ItemService
+@inject ICategoryService CategoryService
+@inject IFileService FileService
+@inject IJSRuntime JSRuntime
+@inject NavigationManager Navigation
+@using System.ComponentModel.DataAnnotations
+
+<div class="container-fluid p-3">
+    <!-- Header -->
+    <div class="row mb-3">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h4><i class="fas fa-file-invoice"></i> Bills</h4>
+                    <small class="text-muted">SABES - Manage all your bills and quotations</small>
+                </div>
+                <a href="/billing" class="btn btn-primary">
+                    <i class="fas fa-plus"></i> New Bill
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Filter Tabs -->
+    <div class="row mb-3">
+        <div class="col-12">
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <button class="nav-link @(selectedStatus == "all" ? "active" : "")" @onclick='() => FilterByStatus("all")'>
+                        All (@allBills.Count)
+                    </button>
+                </li>
+                <li class="nav-item">
+                    <button class="nav-link @(selectedStatus == "quotation" ? "active" : "")" @onclick='() => FilterByStatus("quotation")'>
+                        Quotations (@quotationCount)
+                    </button>
+                </li>
+                <li class="nav-item">
+                    <button class="nav-link @(selectedStatus == "pending" ? "active" : "")" @onclick='() => FilterByStatus("pending")'>
+                        Pending (@pendingCount)
+                    </button>
+                </li>
+                <li class="nav-item">
+                    <button class="nav-link @(selectedStatus == "paid" ? "active" : "")" @onclick='() => FilterByStatus("paid")'>
+                        Paid (@paidCount)
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Bills List -->
+    @if (isLoading)
+    {
+        <div class="text-center p-4">
+            <div class="spinner"></div>
+            <p class="mt-2">Loading bills...</p>
+        </div>
+    }
+    else if (!filteredBills.Any())
+    {
+        <div class="card">
+            <div class="card-body text-center p-5">
+                <i class="fas fa-file-invoice fa-3x text-muted mb-3"></i>
+                <h5>No Bills Found</h5>
+                <p class="text-muted">
+                    @if (selectedStatus == "all")
+                    {
+                        <text>Start by creating your first bill</text>
+                    }
+                    else
+                    {
+                        <text>No @selectedStatus bills found</text>
+                    }
+                </p>
+                @if (selectedStatus == "all")
+                {
+                    <a href="/billing" class="btn btn-primary">
+                        <i class="fas fa-plus"></i> Create First Bill
+                    </a>
+                }
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var bill in filteredBills)
+            {
+                <div class="col-12 col-md-6 col-lg-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <div>
+                                    <h6 class="card-title mb-1">@bill.BillNumber</h6>
+                                    <small class="text-muted">@bill.CreatedAt.ToString("dd/MM/yyyy HH:mm")</small>
+                                </div>
+                                <div class="dropdown">
+                                    <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown">
+                                        <i class="fas fa-ellipsis-v"></i>
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item" href="/bills/@bill.Id">
+                                            <i class="fas fa-eye"></i> View Details
+                                        </a></li>
+                                        <li><button class="dropdown-item" type="button" @onclick="() => ShowEditModal(bill)">
+                                            <i class="fas fa-edit"></i> Edit Bill
+                                        </button></li>
+                                        <li><button class="dropdown-item" type="button" @onclick="() => ExportAsImage(bill)">
+                                            <i class="fas fa-download"></i> Export as PDF
+                                        </button></li>
+                                        <li><button class="dropdown-item" type="button" @onclick="() => ShareAsImage(bill)">
+                                            <i class="fas fa-share-alt"></i> Share PDF
+                                        </button></li>
+                                        <li><hr class="dropdown-divider"></li>
+                                        @if (bill.Status != BillStatus.Paid)
+                                        {
+                                            <li><button class="dropdown-item" type="button" @onclick="() => UpdateStatus(bill, BillStatus.Paid)">
+                                                <i class="fas fa-check text-success"></i> Mark as Paid
+                                            </button></li>
+                                        }
+                                        @if (bill.Status != BillStatus.PaymentPending)
+                                        {
+                                            <li><button class="dropdown-item" type="button" @onclick="() => UpdateStatus(bill, BillStatus.PaymentPending)">
+                                                <i class="fas fa-clock text-warning"></i> Mark as Pending
+                                            </button></li>
+                                        }
+                                        @if (bill.Status != BillStatus.Quotation)
+                                        {
+                                            <li><button class="dropdown-item" type="button" @onclick="() => UpdateStatus(bill, BillStatus.Quotation)">
+                                                <i class="fas fa-file-alt text-info"></i> Mark as Quotation
+                                            </button></li>
+                                        }
+                                        <li><hr class="dropdown-divider"></li>
+                                        <li><button class="dropdown-item text-danger" type="button" @onclick="() => DeleteBill(bill)">
+                                            <i class="fas fa-trash"></i> Delete
+                                        </button></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            @if (!string.IsNullOrEmpty(bill.CustomerName))
+                            {
+                                <p class="card-text mb-1">
+                                    <i class="fas fa-user"></i> @bill.CustomerName
+                                </p>
+                            }
+
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <span class="badge @GetStatusClass(bill.Status)">@bill.Status</span>
+                                <span class="currency">₨@bill.TotalAmount.ToString("N0")</span>
+                            </div>
+
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted">
+                                    <i class="fas fa-shopping-cart"></i> @bill.BillItems.Count items
+                                </small>
+                                @if (bill.Status == BillStatus.Paid && bill.PaidAt.HasValue)
+                                {
+                                    <small class="text-success">
+                                        <i class="fas fa-check"></i> Paid @bill.PaidAt.Value.ToString("dd/MM/yyyy")
+                                    </small>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+
+    <!-- Footer -->
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="text-center">
+                <small class="text-muted">
+                    <i class="fas fa-code"></i> Powered by <strong class="text-primary">Arslandevs</strong>
+                </small>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Edit Bill Modal -->
+@if (showEditModal)
+{
+    <div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,0.5);">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">
+                        <i class="fas fa-edit"></i> Edit Bill - @editingBill?.BillNumber
+                    </h5>
+                    <button type="button" class="btn-close" @onclick="HideEditModal"></button>
+                </div>
+                <EditForm Model="billForm" OnValidSubmit="SaveBillChanges">
+                    <DataAnnotationsValidator />
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label class="form-label">Customer Name *</label>
+                                    <InputText class="form-control" @bind-Value="billForm.CustomerName" placeholder="Enter customer name" />
+                                    <ValidationMessage For="@(() => billForm.CustomerName)" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label class="form-label">Customer Phone</label>
+                                    <InputText class="form-control" @bind-Value="billForm.CustomerPhone" placeholder="Enter phone number" />
+                                    <ValidationMessage For="@(() => billForm.CustomerPhone)" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label class="form-label">Status</label>
+                                    <InputSelect class="form-select" @bind-Value="billForm.Status">
+                                        <option value="@BillStatus.Quotation">Quotation</option>
+                                        <option value="@BillStatus.PaymentPending">Payment Pending</option>
+                                        <option value="@BillStatus.Paid">Paid</option>
+                                    </InputSelect>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label class="form-label">Discount Percentage</label>
+                                    <InputNumber class="form-control" @bind-Value="billForm.DiscountPercentage" min="0" max="100" step="0.1" />
+                                    <ValidationMessage For="@(() => billForm.DiscountPercentage)" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Notes</label>
+                            <InputTextArea class="form-control" @bind-Value="billForm.Notes" rows="3" placeholder="Enter any additional notes" />
+                        </div>
+
+                        <!-- Bill Items Management -->
+                        <div class="mb-3">
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <label class="form-label mb-0">Bill Items</label>
+                                <button type="button" class="btn btn-sm btn-outline-primary" @onclick="ToggleAddItemSection">
+                                    <i class="fas fa-plus"></i> Add Item
+                                </button>
+                            </div>
+
+                            <!-- Add Item Section -->
+                            @if (showAddItemSection)
+                            {
+                                <div class="card mb-3">
+                                    <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" @bind="itemSearchTerm" @bind:after="SearchItems" placeholder="Search items by name or company..." />
+                                            </div>
+                                            <div class="col-md-4">
+                                                <button type="button" class="btn btn-secondary w-100" @onclick="ToggleAddItemSection">
+                                                    <i class="fas fa-times"></i> Cancel
+                                                </button>
+                                            </div>
+                                        </div>
+                                        @if (searchResults.Any())
+                                        {
+                                            <div class="mt-3" style="max-height: 200px; overflow-y: auto;">
+                                                @foreach (var item in searchResults.Take(10))
+                                                {
+                                                    <div class="d-flex justify-content-between align-items-center p-2 border-bottom @(item.StockQuantity == 0 ? "border-danger" : item.StockQuantity <= item.MinimumStockLevel ? "border-warning" : "")">
+                                                        <div class="flex-grow-1">
+                                                            <strong>@item.Name</strong>
+                                                            <br><small class="text-muted">@item.Company - ₨@item.Price.ToString("N0")</small>
+                                                            <br>
+                                                            @if (item.StockQuantity == 0)
+                                                            {
+                                                                <small class="text-danger"><i class="fas fa-exclamation-triangle"></i> Out of Stock</small>
+                                                            }
+                                                            else if (item.StockQuantity <= item.MinimumStockLevel)
+                                                            {
+                                                                <small class="text-warning"><i class="fas fa-exclamation-circle"></i> Low Stock (@item.StockQuantity left)</small>
+                                                            }
+                                                            else
+                                                            {
+                                                                <small class="text-success"><i class="fas fa-check-circle"></i> In Stock (@item.StockQuantity available)</small>
+                                                            }
+                                                        </div>
+                                                        <button type="button" class="btn btn-sm @(item.StockQuantity == 0 ? "btn-secondary" : "btn-primary")" 
+                                                                @onclick="async () => await AddItemToBill(item)"
+                                                                disabled="@(item.StockQuantity == 0)">
+                                                            <i class="fas fa-plus"></i> Add
+                                                        </button>
+                                                    </div>
+                                                }
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+                            }
+
+                            <!-- Bill Items Table -->
+                            <div class="table-responsive">
+                                <table class="table table-sm">
+                                    <thead>
+                                        <tr>
+                                            <th>Item</th>
+                                            <th>Qty</th>
+                                            <th>Rate</th>
+                                            <th>Total</th>
+                                            <th>Actions</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @if (editingBill?.BillItems != null && editingBill.BillItems.Any())
+                                        {
+                                            @foreach (var item in editingBill.BillItems)
+                                            {
+                                                <tr>
+                                                    <td>
+                                                        @item.ItemName
+                                                        @if (!string.IsNullOrEmpty(item.ItemCompany))
+                                                        {
+                                                            <br><small class="text-muted">@item.ItemCompany</small>
+                                                        }
+                                                    </td>
+                                                    <td>
+                                                        <div class="input-group input-group-sm" style="width: 100px;">
+                                                            <button type="button" class="btn btn-outline-secondary" @onclick="() => UpdateItemQuantity(item, item.Quantity - 1)">-</button>
+                                                            <input type="number" class="form-control text-center" @bind="item.Quantity" @bind:after="() => UpdateItemQuantity(item, item.Quantity)" min="1" />
+                                                            <button type="button" class="btn btn-outline-secondary" @onclick="() => UpdateItemQuantity(item, item.Quantity + 1)">+</button>
+                                                        </div>
+                                                    </td>
+                                                    <td>₨@item.UnitPrice.ToString("N0")</td>
+                                                    <td>₨@item.LineTotal.ToString("N0")</td>
+                                                    <td>
+                                                        <button type="button" class="btn btn-sm btn-outline-danger" @onclick="() => RemoveItemFromBill(item)">
+                                                            <i class="fas fa-trash"></i>
+                                                        </button>
+                                                    </td>
+                                                </tr>
+                                            }
+                                        }
+                                        else
+                                        {
+                                            <tr>
+                                                <td colspan="5" class="text-center text-muted">No items in this bill</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="text-end">
+                                <strong>Total: ₨@(((editingBill?.SubTotal ?? 0) - (editingBill?.DiscountAmount ?? 0)).ToString("N0"))</strong>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" @onclick="HideEditModal">Cancel</button>
+                        <button type="submit" class="btn btn-primary" disabled="@isSavingEdit">
+                            @if (isSavingEdit)
+                            {
+                                <span class="spinner-border spinner-border-sm me-2"></span>
+                            }
+                            Update Bill
+                        </button>
+                    </div>
+                </EditForm>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private List<Bill> allBills = new();
+    private List<Bill> filteredBills = new();
+    private bool isLoading = true;
+    private string selectedStatus = "all";
+    private int quotationCount = 0;
+    private int pendingCount = 0;
+    private int paidCount = 0;
+
+    // Edit functionality
+    private bool showEditModal = false;
+    private bool isSavingEdit = false;
+    private Bill? editingBill = null;
+    private BillEditForm billForm = new();
+
+    // Item management for editing
+    private bool showAddItemSection = false;
+    private string itemSearchTerm = string.Empty;
+    private List<Item> searchResults = new();
+    private List<Item> allItems = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadBills();
+        await LoadItems();
+    }
+
+    private async Task LoadItems()
+    {
+        try
+        {
+            allItems = await ItemService.GetAllItemsAsync();
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error loading items: {ex.Message}");
+        }
+    }
+
+    private async Task LoadBills()
+    {
+        isLoading = true;
+        try
+        {
+            allBills = await BillService.GetAllBillsAsync();
+            UpdateCounts();
+            FilterByStatus(selectedStatus);
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error loading bills: {ex.Message}");
+        }
+        finally
+        {
+            isLoading = false;
+            StateHasChanged();
+            await Task.Delay(100);
+            await JSRuntime.InvokeVoidAsync("initializeDropdowns");
+        }
+    }
+
+    private void UpdateCounts()
+    {
+        quotationCount = allBills.Count(b => b.Status == BillStatus.Quotation);
+        pendingCount = allBills.Count(b => b.Status == BillStatus.PaymentPending);
+        paidCount = allBills.Count(b => b.Status == BillStatus.Paid);
+    }
+
+    private void FilterByStatus(string status)
+    {
+        selectedStatus = status;
+        filteredBills = status switch
+        {
+            "quotation" => allBills.Where(b => b.Status == BillStatus.Quotation).ToList(),
+            "pending" => allBills.Where(b => b.Status == BillStatus.PaymentPending).ToList(),
+            "paid" => allBills.Where(b => b.Status == BillStatus.Paid).ToList(),
+            _ => allBills
+        };
+    }
+
+    private string GetStatusClass(BillStatus status)
+    {
+        return status switch
+        {
+            BillStatus.Paid => "status-paid",
+            BillStatus.PaymentPending => "status-pending",
+            BillStatus.Quotation => "status-quotation",
+            _ => "bg-secondary"
+        };
+    }
+
+    private async Task UpdateStatus(Bill bill, BillStatus newStatus)
+    {
+        try
+        {
+            var updated = await BillService.UpdateBillStatusAsync(bill.Id, newStatus);
+            if (updated)
+            {
+                bill.Status = newStatus;
+                if (newStatus == BillStatus.Paid)
+                {
+                    bill.PaidAt = DateTime.Now;
+                }
+                else
+                {
+                    bill.PaidAt = null;
+                }
+                UpdateCounts();
+                FilterByStatus(selectedStatus);
+                StateHasChanged();
+            }
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error updating bill status: {ex.Message}");
+        }
+    }
+
+    private async Task ExportAsImage(Bill bill)
+    {
+        try
+        {
+#if ANDROID
+            // Use native Android file saving for better compatibility
+            var filePath = await BillService.ExportBillAsPdfToFileAsync(bill.Id);
+            await JSRuntime.InvokeVoidAsync("showToast", "✅ Bill exported as PDF to Downloads folder!", "success");
+#else
+            // Use JavaScript download for other platforms
+            var pdfBytes = await BillService.ExportBillAsPdfAsync(bill.Id);
+            var base64 = Convert.ToBase64String(pdfBytes);
+            var dataUrl = $"data:application/pdf;base64,{base64}";
+
+            await JSRuntime.InvokeVoidAsync("downloadFile", dataUrl, $"Bill_{bill.BillNumber}.pdf");
+            await JSRuntime.InvokeVoidAsync("showToast", "✅ Bill exported as PDF successfully!", "success");
+#endif
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("showToast", $"❌ PDF Export failed: {ex.Message}", "error");
+        }
+    }
+
+    private async Task ShareAsImage(Bill bill)
+    {
+        try
+        {
+            // Generate PDF bytes
+            var pdfBytes = await BillService.ExportBillAsPdfAsync(bill.Id);
+            var filename = $"Bill_{bill.BillNumber}.pdf";
+            var title = $"SABES Bill - {bill.BillNumber}";
+
+            // Use FileService to share the PDF
+            await FileService.ShareFileAsync(pdfBytes, filename, "application/pdf", title);
+
+            await JSRuntime.InvokeVoidAsync("showToast", "📱 Share menu opened!", "success");
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("showToast", $"❌ Share failed: {ex.Message}", "error");
+        }
+    }
+
+    private async Task DeleteBill(Bill bill)
+    {
+        var confirmed = await JSRuntime.InvokeAsync<bool>("confirm",
+            $"Are you sure you want to delete bill {bill.BillNumber}? This action cannot be undone.");
+
+        if (!confirmed) return;
+
+        try
+        {
+            var deleted = await BillService.DeleteBillAsync(bill.Id);
+            if (deleted)
+            {
+                await LoadBills();
+            }
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error deleting bill: {ex.Message}");
+        }
+    }
+
+    private void ShowEditModal(Bill bill)
+    {
+        editingBill = bill;
+        billForm = new BillEditForm
+        {
+            CustomerName = bill.CustomerName,
+            CustomerPhone = bill.CustomerPhone,
+            Status = bill.Status,
+            DiscountPercentage = bill.DiscountPercentage,
+            Notes = bill.Notes
+        };
+        showEditModal = true;
+    }
+
+    private void HideEditModal()
+    {
+        showEditModal = false;
+        editingBill = null;
+        billForm = new BillEditForm();
+    }
+
+    private async Task SaveBillChanges()
+    {
+        if (editingBill == null) return;
+
+        isSavingEdit = true;
+        try
+        {
+            // Update bill properties
+            editingBill.CustomerName = billForm.CustomerName ?? string.Empty;
+            editingBill.CustomerPhone = billForm.CustomerPhone ?? string.Empty;
+            editingBill.Status = billForm.Status;
+            editingBill.DiscountPercentage = billForm.DiscountPercentage;
+            editingBill.Notes = billForm.Notes ?? string.Empty;
+
+            // Recalculate totals based on current items
+            RecalculateBillTotals();
+
+            // Update paid date if status changed to paid
+            if (billForm.Status == BillStatus.Paid && editingBill.PaidAt == null)
+            {
+                editingBill.PaidAt = DateTime.Now;
+            }
+            else if (billForm.Status != BillStatus.Paid)
+            {
+                editingBill.PaidAt = null;
+            }
+
+            await BillService.UpdateBillAsync(editingBill);
+            await JSRuntime.InvokeVoidAsync("alert", "Bill updated successfully!");
+
+            HideEditModal();
+            await LoadBills();
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error updating bill: {ex.Message}");
+        }
+        finally
+        {
+            isSavingEdit = false;
+        }
+    }
+
+    private void ToggleAddItemSection()
+    {
+        showAddItemSection = !showAddItemSection;
+        if (!showAddItemSection)
+        {
+            itemSearchTerm = string.Empty;
+            searchResults.Clear();
+        }
+    }
+
+    private async Task SearchItems()
+    {
+        if (string.IsNullOrWhiteSpace(itemSearchTerm))
+        {
+            searchResults.Clear();
+            return;
+        }
+
+        try
+        {
+            searchResults = await ItemService.SearchItemsAsync(itemSearchTerm);
+        }
+        catch (Exception ex)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error searching items: {ex.Message}");
+        }
+    }
+
+    private async Task AddItemToBill(Item item)
+    {
+        if (editingBill?.BillItems == null) return;
+
+        // Check if item already exists in bill
+        var existingItem = editingBill.BillItems.FirstOrDefault(bi => bi.ItemId == item.Id);
+        var requestedQuantity = existingItem != null ? existingItem.Quantity + 1 : 1;
+        
+        // Check stock availability
+        var hasStock = await ItemService.HasSufficientStockAsync(item.Id, requestedQuantity);
+        if (!hasStock)
+        {
+            var availableStock = await ItemService.GetAvailableStockAsync(item.Id);
+            if (availableStock == 0)
+            {
+                await JSRuntime.InvokeVoidAsync("alert", $"Cannot add {item.Name} - Out of stock!");
+            }
+            else
+            {
+                await JSRuntime.InvokeVoidAsync("alert", $"Cannot add {item.Name} - Only {availableStock} units available in stock!");
+            }
+            return;
+        }
+        
+        if (existingItem != null)
+        {
+            // Increase quantity if item already exists
+            existingItem.Quantity++;
+            existingItem.LineTotal = existingItem.UnitPrice * existingItem.Quantity;
+        }
+        else
+        {
+            // Add new item to bill
+            var billItem = new BillItem
+            {
+                ItemId = item.Id,
+                ItemName = item.Name,
+                ItemCompany = item.Company,
+                ItemCategory = item.Category?.Name,
+                ItemElectricalDetails = item.ElectricalDetails,
+                UnitPrice = item.Price,
+                Quantity = 1,
+                LineTotal = item.Price,
+                BillId = editingBill.Id
+            };
+            editingBill.BillItems.Add(billItem);
+        }
+
+        RecalculateBillTotals();
+        ToggleAddItemSection(); // Hide add item section after adding
+    }
+
+    private void RemoveItemFromBill(BillItem item)
+    {
+        if (editingBill?.BillItems == null) return;
+
+        editingBill.BillItems.Remove(item);
+        RecalculateBillTotals();
+    }
+
+    private void UpdateItemQuantity(BillItem item, int newQuantity)
+    {
+        if (newQuantity < 1) return;
+
+        item.Quantity = newQuantity;
+        item.LineTotal = item.UnitPrice * item.Quantity;
+        RecalculateBillTotals();
+    }
+
+    private void RecalculateBillTotals()
+    {
+        if (editingBill?.BillItems == null) return;
+
+        editingBill.SubTotal = editingBill.BillItems.Sum(bi => bi.LineTotal);
+        editingBill.DiscountAmount = editingBill.SubTotal * (editingBill.DiscountPercentage / 100);
+        editingBill.TotalAmount = editingBill.SubTotal - editingBill.DiscountAmount;
+    }
+
+    public class BillEditForm
+    {
+        [Required(ErrorMessage = "Customer name is required")]
+        public string CustomerName { get; set; } = string.Empty;
+
+        public string CustomerPhone { get; set; } = string.Empty;
+
+        [Required]
+        public BillStatus Status { get; set; }
+
+        [Range(0, 100, ErrorMessage = "Discount must be between 0 and 100")]
+        public decimal DiscountPercentage { get; set; }
+
+        public string Notes { get; set; } = string.Empty;
+    }
+}
